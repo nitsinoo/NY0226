@@ -14,8 +14,10 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        hearts: ['❤️', '💖', '💗', '💓'],  // Heart emojis
         bears: ['🧸', '🐻']
+        stars:['✨', '⭐️']
+        moons: ['🌝',🌚]
     },
 
     // Questions and answers
@@ -51,7 +53,7 @@ const CONFIG = {
     celebration: {
         title: "Just thought you should know! ",
         message: "I will come and collect you around 9:30am?",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "🚗🌅🏛💋"  // These will bounce around
     },
 
     // Color scheme for the website
