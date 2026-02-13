@@ -51,7 +51,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Just thought you should know! ",
+        title: "GREAT ANSWER!",
         message: "I will come and collect you around 9:30am?",
         emojis: "🚗🌅🏛💋"  // These will bounce around
     },
